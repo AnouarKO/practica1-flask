@@ -9,3 +9,5 @@ __pycache__/
 # Variables d'entorn
 .env
 .grup.db
+
+README.md
