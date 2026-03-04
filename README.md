@@ -1,24 +1,40 @@
-Fet per Anouar El Kabiri i Eloi Mora Palomino
+# Practica 1 - Flask
 
-En aquesta primera practica l'objectiu es desplegar una app web, tant en local com en aws mitjanaçant Flask.
+## Fet per
 
+- Anouar El Kabiri
+- Eloi Mora Palomino
 
-Per a poder executar la applicació:
-    Tenir instalat:
-        Python 3.12.3
-        git
-        pip
+## Descripcio
 
-    Despres crear un entorn virtual:
-        python3 -m venv venv
+En aquesta primera practica l'objectiu es desplegar una app web, tant en local com en AWS, mitjancant Flask.
 
-    Accedir a la mateix:
-        source /venv/bin/activate
+## Per executar l'aplicacio
 
-    Finalment executar la app:
-        python app.py
+### Cal tenir instal.lat
 
+- Python 3.12.3
+- git
+- pip
 
+### Crear un entorn virtual
 
+```
+python3 -m venv venv
+```
 
+### Activar l'entorn virtual
 
+```
+source venv/bin/activate
+```
+
+### Executar l'app
+
+```
+python app.py
+```
+
+## Nota
+
+L'aplicacio s'executa al port `8000`.
