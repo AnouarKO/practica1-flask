@@ -38,3 +38,5 @@ python app.py
 ## Nota
 
 L'aplicacio s'executa al port `8000`.
+
+Tenim el consentiment de l'Alba per la imatge.
