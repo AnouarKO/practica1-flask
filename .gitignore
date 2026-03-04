@@ -9,6 +9,3 @@ __pycache__/
 # Variables d'entorn
 .env
 .grup.db
-
-.key.txt
-.key.txt.pub
