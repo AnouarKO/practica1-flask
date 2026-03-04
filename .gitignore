@@ -10,6 +10,5 @@ __pycache__/
 .env
 .grup.db
 
-.README.md
 .key.txt
 .key.txt.pub
